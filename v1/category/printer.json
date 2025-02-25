@@ -1,0 +1,24 @@
+{
+  "data" : [
+    {
+      "title" : "공과대학 7호관",
+      "description" : "📍1층 중앙 현관에 위치 (유료, 카등 가능)",
+      "coord" : ""
+    },
+    {
+      "title" : "경영대학 1호관",
+      "description" : "1층 무인 카페 옆",
+      "coord" : ""
+    },
+    {
+      "title" : "정보마루 1층",
+      "description" : "1층 그룹스터디룸 앞",
+      "coord" : ""
+    },
+    {
+      "title" : "백도 2층",
+      "description" : "2층 매점 맞은편",
+      "coord" : ""
+    }
+  ]
+}
