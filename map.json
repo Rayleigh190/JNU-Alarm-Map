@@ -7,6 +7,10 @@
     {
       "name" : "🏪편의점",
       "url" : "https://raw.githubusercontent.com/Rayleigh190/JNU-Alarm-Map/refs/heads/main/v1/top_category/store.json"
+    },
+    {
+      "name" : "🍽️교내식당",
+      "url" : "https://raw.githubusercontent.com/Rayleigh190/JNU-Alarm-Map/refs/heads/main/v1/top_category/restaurant.json"
     }
   ]
 }
