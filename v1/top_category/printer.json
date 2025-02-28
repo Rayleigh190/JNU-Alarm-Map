@@ -2,8 +2,11 @@
   "data" : [
     {
       "title" : "공과대학 7호관",
-      "description" : "📍1층 중앙 현관에 위치 (유료, 카등 가능)",
-      "tag" : "✔️와플",
+      "image_url" : "https://placehold.co/100.png",
+      "description" : "📍1층 중앙 현관에 위치\n💰흑백40원, 컬러300원(장)",
+      "tag" : "✔️카드 가능 ✔️인터넷 가능 ✔️보안 주의",
+      "emoji" : "🖨️",
+      "category_name" : "복사기",
       "coord" : {
         "lat" : 35.178359596721634,
         "lng" : 126.9093914649144
@@ -11,8 +14,11 @@
     },
     {
       "title" : "경영대학 1호관",
-      "description" : "1층 무인 카페 옆",
-      "tag" : "✔️와플",
+      "image_url" : "https://placehold.co/100.png",
+      "description" : "📍1층 무인 카페 옆\n💰흑백40원, 컬러300원(장)",
+      "tag" : "✔️카드 가능 ✔️인터넷 가능 ✔️보안 주의",
+      "emoji" : "🖨️",
+      "category_name" : "복사기",
       "coord" : {
         "lat" : 35.17684587573409,
         "lng" : 126.90425819050216
@@ -20,8 +26,11 @@
     },
     {
       "title" : "정보마루 1층",
-      "description" : "1층 그룹스터디룸 앞",
-      "tag" : "✔️와플",
+      "image_url" : "https://placehold.co/100.png",
+      "description" : "📍1층 그룹스터디룸 앞\n💰흑백40원, 컬러300원(장)",
+      "tag" : "✔️카드 가능 ✔️인터넷 가능 ✔️보안 주의",
+      "emoji" : "🖨️",
+      "category_name" : "복사기",
       "coord" : {
         "lat" : 35.1765674167118,
         "lng" : 126.90548255850064
@@ -29,8 +38,11 @@
     },
     {
       "title" : "백도 2층",
-      "description" : "2층 매점 맞은편",
-      "tag" : "✔️와플",
+      "image_url" : "https://placehold.co/100.png",
+      "description" : "📍2층 매점 맞은편\n💰흑백40원, 컬러300원(장)",
+      "tag" : "✔️카드 가능 ✔️인터넷 가능 ✔️보안 주의",
+      "emoji" : "🖨️",
+      "category_name" : "복사기",
       "coord" : {
         "lat" : 35.17801055616681,
         "lng" : 126.90673239657053
