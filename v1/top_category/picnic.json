@@ -1,0 +1,52 @@
+{
+  "data" : [
+    {
+      "title" : "텔레토비 동산",
+      "image_url" : "https://placehold.co/100.png",
+      "description" : "📍경영대 1호관 건너편\n📫용봉로 77",
+      "tag" : "✔️피크닉 스팟 ✔️벤치 ✔️텔레토비 동산 잔디밭 ✔️큰 나무\n⚠️피크닉 후 정리 정돈 필수",
+      "emoji" : "🧺",
+      "category_name" : "피크닉",
+      "coord" : {
+        "lat" : 35.176273804849565,
+        "lng" : 126.90462662126122
+      }
+    },
+    {
+      "title" : "야외 박물관",
+      "image_url" : "https://placehold.co/100.png",
+      "description" : "📍민주마루 건너편\n📫용봉로 77",
+      "tag" : "✔️피크닉 스팟 ✔️야외 박물관 잔디밭 일대 ✔️예쁜 저녁 노을\n⚠️피크닉 후 정리 정돈 필수",
+      "emoji" : "🧺",
+      "category_name" : "피크닉",
+      "coord" : {
+        "lat" : 35.17546677211967,
+        "lng" : 126.90711678062561
+      }
+    },
+    {
+      "title" : "오월열사 기억 정원",
+      "image_url" : "https://placehold.co/100.png",
+      "description" : "📍공대 3호관 앞 벤치\n📫용봉로 77",
+      "tag" : "✔️피크닉 스팟 ✔️벤치 테이블 ✔️공대생의 쉼터\n⚠️피크닉 후 정리 정돈 필수",
+      "emoji" : "🧺",
+      "category_name" : "피크닉",
+      "coord" : {
+        "lat" : 35.17867999350497,
+        "lng" : 126.90994825481718
+      }
+    },
+    {
+      "title" : "만들마루 앞 산책로",
+      "image_url" : "https://placehold.co/100.png",
+      "description" : "📍전남대 만들마루 앞\n📫용봉로 77",
+      "tag" : "✔️피크닉 스팟 ✔️벤치 ✔️잔디밭 일대\n⚠️피크닉 후 정리 정돈 필수",
+      "emoji" : "🧺",
+      "category_name" : "피크닉",
+      "coord" : {
+        "lat" : 35.181107934017824,
+        "lng" : 126.90832898373523
+      }
+    }
+  ]
+}

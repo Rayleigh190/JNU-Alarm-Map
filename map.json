@@ -9,8 +9,16 @@
       "url" : "https://raw.githubusercontent.com/Rayleigh190/JNU-Alarm-Map/refs/heads/main/v1/top_category/store.json"
     },
     {
-      "name" : "🍽️교내식당",
+      "name" : "🍱교내식당",
       "url" : "https://raw.githubusercontent.com/Rayleigh190/JNU-Alarm-Map/refs/heads/main/v1/top_category/restaurant.json"
+    },
+    {
+      "name" : "☕️카페",
+      "url" : "https://raw.githubusercontent.com/Rayleigh190/JNU-Alarm-Map/refs/heads/main/v1/top_category/cafe.json"
+    },
+    {
+      "name" : "🧺피크닉",
+      "url" : "https://raw.githubusercontent.com/Rayleigh190/JNU-Alarm-Map/refs/heads/main/v1/top_category/picnic.json"
     }
   ]
 }
