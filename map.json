@@ -1,6 +1,10 @@
 {
   "top_categories" : [
     {
+      "name" : "🚪쪽문",
+      "url" : "https://raw.githubusercontent.com/Rayleigh190/JNU-Alarm-Map/refs/heads/main/v1/top_category/side_door.json"
+    },
+    {
       "name" : "🖨️복사기",
       "url" : "https://raw.githubusercontent.com/Rayleigh190/JNU-Alarm-Map/refs/heads/main/v1/top_category/printer.json"
     },
