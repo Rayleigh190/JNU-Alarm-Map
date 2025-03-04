@@ -2,9 +2,9 @@
   "data" : [
     {
       "title" : "1학생마루 쿱스켓",
-      "image_url" : "https://placehold.co/100.png",
+      "image_url" : "https://gist.github.com/user-attachments/assets/9412c257-62e5-4ba5-97ea-cd61e07bb98c",
       "description" : "📍제 1학생마루 1층\n🕖영업시간\n-유인: 평일 08:30~18:00\n-무인: 24시간 운영",
-      "tag" : "✔️emart24 ✔️카페 지젤 바로 옆 ✔️돗자리 판매",
+      "tag" : "✔️emart24 ✔️우체국 바로 옆 ✔️돗자리 판매",
       "emoji" : "🏪",
       "category_name" : "편의점",
       "coord" : {
@@ -14,7 +14,7 @@
     },
     {
       "title" : "2학생마루 쿱스켓",
-      "image_url" : "https://placehold.co/100.png",
+      "image_url" : "https://gist.github.com/user-attachments/assets/9412c257-62e5-4ba5-97ea-cd61e07bb98c",
       "description" : "📍제 2학생마루 1층\n🕖영업시간\n-유인: 평일 08:30~17:30\n-무인: 24시간 운영",
       "tag" : "✔️emart24 ✔️넒고 품목이 많음 ✔️취식 공간 ✔️라면 기계",
       "emoji" : "🏪",
@@ -26,7 +26,7 @@
     },
     {
       "title" : "도서관 쿱스켓",
-      "image_url" : "https://placehold.co/100.png",
+      "image_url" : "https://gist.github.com/user-attachments/assets/9412c257-62e5-4ba5-97ea-cd61e07bb98c",
       "description" : "📍도서관 별관(백도) 2층\n🕖영업시간\n-유인: 평일 08:30~17:30\n-무인: 24시간 운영",
       "tag" : "✔️emart24 ✔️백도 내에 위치한 편의점 ✔️바로 옆쪽에 휴게실 위치",
       "emoji" : "🏪",
@@ -38,7 +38,7 @@
     },
     {
       "title" : "공대 쿱스켓",
-      "image_url" : "https://placehold.co/100.png",
+      "image_url" : "https://gist.github.com/user-attachments/assets/9412c257-62e5-4ba5-97ea-cd61e07bb98c",
       "description" : "📍공대 2호관 1층\n🕖영업시간\n-유인: 평일 08:30~19:00\n-무인: 24시간 운영",
       "tag" : "✔️emart24 ✔️넓고 품목이 많음 ✔️취식 공간 ✔️라면 기계",
       "emoji" : "🏪",

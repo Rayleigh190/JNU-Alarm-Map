@@ -49,10 +49,10 @@
       }
     },
     {
-      "title" : "아띠끄2023",
-      "image_url" : "https://placehold.co/100.png",
-      "description" : "📍제 2학생마루 1층\n🕖영업시간\n-학기중 08:30~21:00\n-방학중 08:30~21:00\n-토요일 10:00~17:00\n-일요일 및 공휴일 휴무",
-      "tag" : "✔️후기를 알려주세요\n⚠️ 카페 영업시간은 매장별 상황에 따라 변동될 수 있습니다.",
+      "title" : "할리스 쿱카페",
+      "image_url" : "https://gist.github.com/user-attachments/assets/33763a73-b4ce-4a23-bdcd-185afc0a9432",
+      "description" : "📍제 2학생마루 1층\n🕖영업시간\n-평일 08:30~18:00\n-주말 및 공휴일 휴무",
+      "tag" : "✔️일반 할리스보다 쌈\n⚠️ 카페 영업시간은 매장별 상황에 따라 변동될 수 있습니다.",
       "emoji" : "☕️",
       "category_name" : "카페",
       "coord" : {
